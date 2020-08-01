@@ -1,0 +1,12 @@
+https://www.freertos.org/a00106.html
+https://www.arduino.cc/en/Tutorial/HelloWorld
+https://www.arduino.cc/en/Reference/LiquidCrystalConstructor
+https://www.arduino.cc/en/Reference/LiquidCrystal
+https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
+https://teachmetomake.wordpress.com/how-to-use-a-transistor-as-a-switch/
+
+
+
+
+https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
